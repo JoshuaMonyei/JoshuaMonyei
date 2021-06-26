@@ -2,7 +2,7 @@
 - 👀 I’m interested in software backend development
 - 🌱 I’m currently learning Nodejs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMonyei)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMonyei&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
