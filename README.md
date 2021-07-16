@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @JoshuaMonyei
-- 👀 I’m interested in software backend development
-- 🌱 I’m currently learning Nodejs
+Hi there 👋 , I’m Joshua
+👀 I’m a back end Web Developer
+🌱 Things I’m currently working on
+ - Cloud computing
+ - Back end projects with Node
+ - Multi tier web application
+ - Open source contributions
+ - Container orchestration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMonyei&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
