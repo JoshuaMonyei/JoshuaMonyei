@@ -1,5 +1,7 @@
-Hi there 👋 , I’m Joshua
+### Hi there 👋 , I’m Joshua
+
 👀 I’m a back end Web Developer
+
 🌱 Things I’m currently working on
  - Cloud computing
  - Back end projects with Node
