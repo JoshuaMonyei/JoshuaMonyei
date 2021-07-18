@@ -1,6 +1,6 @@
 #### Hi there 👋 , I’m Joshua Monyei
 
-👀 I’m a back end Web Developer
+👀 A back end Web Developer
 
 🌱 Things I’m currently working on
  - Cloud computing
