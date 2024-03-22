@@ -1,12 +1,12 @@
 #### Hi there 👋 , I’m Joshua Monyei
 
-👀 A back end Web Developer
+👀 A full-stack Software engineer
 
 🌱 Things I’m currently working on
  - Cloud computing
- - Back end projects with Node
- - Multi tier web application
- - Open source contributions
+ - AI integrated products
+ - Multi-tier web application
+ - Open-source contributions
  - Container orchestration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMonyei&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
